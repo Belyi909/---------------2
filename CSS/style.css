@@ -867,7 +867,7 @@ a :visited {
         padding-bottom: 96px;
     }
     .complect_img {
-        height: 211px;
+        height: auto;
     }
     .complect-h_t {
         margin-top: -35px;
