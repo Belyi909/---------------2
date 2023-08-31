@@ -312,6 +312,9 @@ a :visited {
     line-height: 100%; /* 32px */
     letter-spacing: -0.32px;
 }
+.c_i_t_h4 {
+    margin: 0 10% 46px;
+}
 .equipment:hover, .complect-i_t:hover {
     color: transparent;
     -webkit-text-stroke: 1px black;
