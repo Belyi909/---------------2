@@ -118,7 +118,7 @@ a :visited {
 }
 .cond {
     margin-top: 556px;
-    background: url(../assets/images/block2/Image_bg_3.png);
+    background: url(../assets/images/block2/image-bg-3.webp);
     background-size: 150% 150%;
     background-position: 50% 70%;
     padding-bottom: 200px;
@@ -335,7 +335,7 @@ a :visited {
     letter-spacing: -0.2px;
 }
 .order {
-    background: url(../assets/images/block2/Image_bg_3.png);
+    background: url(../assets/images/block2/image-bg-3.webp);
     background-size: 100% 100%;
     background-position: 50% 70%;
     padding: 200px 0 350px;
@@ -345,7 +345,7 @@ a :visited {
     overflow: hidden;
 }
 .ord_container::after {
-    background-image: url('../assets/images/block2/Image_bg_3.png');
+    background-image: url('../assets/images/block2/image-bg-3.webp');
     background-size: 100% 100%;
     background-position: 30% 50%;
     width: 0px;
